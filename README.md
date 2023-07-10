@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://i.postimg.cc/7PnGcgdm/Banner-Youtube-Pixel-Art-Neon-Colorido.png)
+![Aditya Vikram Singh Banner](https://i.postimg.cc/Bb51qFmc/Banner-Youtube-Pixel-Art-Neon-Colorido-1.png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Miguel Angel Sierra</h2>
 
